@@ -1,0 +1,29 @@
+.img{
+    width: 250px;
+    height: 240px;
+}
+.products h4{
+    font-size: 1em;
+    text-transform: capitalize;
+}
+.products p{
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.products{
+    height: 500px;
+    border: 1px solid lightgray;
+    padding: 20px;
+}
+.products button{
+    width: 170px;
+    background-color: slateblue;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 7px;
+    display: block;
+    margin-top: 70px;
+    margin-left: 40px;
+
+}
